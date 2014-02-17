@@ -111,6 +111,11 @@ accommodate student preferences and abilities.
 2.  Overview of course components
 3.  Student introductions
 
+#### Introduction to GIT
+1. Reproducible Research
+1. Version Control
+2. [Git](../1_intro/git.md)
+
 ### Week 2
 
 #### Linux OS
