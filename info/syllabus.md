@@ -99,7 +99,7 @@ accommodate student preferences and abilities.
 
 ##Section 1: Methods and Tools
 
-### Week 1
+### Introduction
 
 #### Introduction to the course
 
@@ -116,7 +116,7 @@ accommodate student preferences and abilities.
 1. Version Control
 2. [Git](../1_intro/git.md)
 
-### Week 2
+### Introduction to Linux
 
 #### Linux OS
 
@@ -142,7 +142,7 @@ accommodate student preferences and abilities.
     there is time/interest)
 8.  [Exercise](http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:advancebash)
 
-### Week 3
+### Processing Tools
 
 #### Command-line tools for geospatial data
 
@@ -170,7 +170,6 @@ accommodate student preferences and abilities.
 8.  QGIS
 9.  Exercise
 
-### Week 4
 
 #### R programming for spatial analysis
 
@@ -186,7 +185,6 @@ accommodate student preferences and abilities.
 2.  [Exercise](http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:openforis_burned) -
     Burned area classification 
 
-### Week 5
 
 #### [Language/software integration through scripting language](http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:langintergartionptot)
 
@@ -203,7 +201,7 @@ accommodate student preferences and abilities.
 ##Section 2: Example Datasets 
 ---------------------------
 
-### Week 6
+### Climate Data
 
 #### [Working with climate data](https://github.com/adammwilson/SpatialAnalysisTutorials/blob/master/climate/presentation/ClimateData.pdf)
 
@@ -222,7 +220,7 @@ accommodate student preferences and abilities.
 Exercise:  [Download, process, and visualize GCM and RCM data for New
 England.](https://github.com/adammwilson/SpatialAnalysisTutorials/tree/master/climate/code)
 
-### Week 7
+### Environmental and Biodiversity Data
 
 #### Environmental and remote sensing data
 
@@ -239,7 +237,7 @@ global extent
 Models and Methods for integrating the dimensions of biodiversity
 
 
-### Week 8 
+### Species Distribution Modeling 
 
 In this class we will demonstrate important species occurrence data from
 several sources, doing some data cleaning, and overlaying with
@@ -258,7 +256,7 @@ studio](http://www.rstudio.com/), or from GitHub, using the
 [Markdown](http://daringfireball.net/projects/markdown/)structuring of
 the code; the codes are available in.rmd, .md and .html formats.
 
-### Week 9 
+### What is a model? 
 
 #### [The duality of data and models; probability models for data](https://github.com/adammwilson/SpatialAnalysisTutorials/tree/master/statistics_intro)  (Petr) {.c5}
 
@@ -271,7 +269,7 @@ the code; the codes are available in.rmd, .md and .html formats.
 5.  Spatial gradients and their influence on frequency distributions of
     data
 
-### Week 10
+### Spatial Models
 
 #### [Statistical models in spatial context](https://github.com/adammwilson/SpatialAnalysisTutorials/tree/master/logistic_regression)
 
@@ -282,7 +280,7 @@ the code; the codes are available in.rmd, .md and .html formats.
     that
 4.  Spatial autocorrelation in residuals; Moran’s correlograms
 
-### Week 11
+### Fitting MOdels
 
 #### [Three ways of fitting models: glm(), maximum likelihood and MCMC](https://github.com/adammwilson/SpatialAnalysisTutorials/blob/master/poisson_regression/poisson_regression.md)
 
@@ -295,8 +293,7 @@ the code; the codes are available in.rmd, .md and .html formats.
     concept of likelihood
 6.  Fitting the model by MCMC in JAGS; brief intro to Bayesian inference
 
-### Week 12
-Yale last day of classes December 6
+### Coda
 
 In this session we will perform a simple species distribution model
 workflow for the Solitary Tinamou (Tinamus solitarius).   In this
