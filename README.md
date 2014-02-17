@@ -1,6 +1,9 @@
-Motivation
+Ecoinformatics: methods in spatial and environmental biodiversity analysis
 ===
 
+# This repository hosts my growing materials for a course in Eco-informatics.  It is founded upon the materials developed for (Spatial Biodiversity Analysis and Methods)[https://github.com/adammwilson/SpatialAnalysisTutorials] course at Yale.
+
+# Motivation
 Over the past few decades there has been an explosion of available data
 for environmental and biodiversity research. This ‘big data’ now allows
 us to address a number of old and new important questions with
