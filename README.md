@@ -1,7 +1,8 @@
 Ecoinformatics: methods in spatial and environmental biodiversity analysis
 ===
 
-# This repository hosts my growing materials for a course in Eco-informatics.  It is founded upon the materials developed for (Spatial Biodiversity Analysis and Methods)[https://github.com/adammwilson/SpatialAnalysisTutorials] course at Yale.
+# Background
+This repository hosts my growing materials for a course in Eco-informatics.  It is founded upon the materials developed for (Spatial Biodiversity Analysis and Methods)[https://github.com/adammwilson/SpatialAnalysisTutorials] course at Yale.
 
 # Motivation
 Over the past few decades there has been an explosion of available data
