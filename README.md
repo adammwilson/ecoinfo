@@ -1,4 +1,5 @@
-=== Motivation ===
+Motivation
+===
 
 Over the past few decades there has been an explosion of available data
 for environmental and biodiversity research. This ‘big data’ now allows
